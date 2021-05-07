@@ -131,13 +131,11 @@ input, select, textarea {
 	}
 
 		h2.alt {
-			/* color: #888; */
-			color: red;
+			color: #888;
 		}
 
 			h2.alt strong {
-				/* color: #666; */
-				color: green;
+				color: #666;
 			}
 
 	h3 {
@@ -1757,14 +1755,14 @@ input, select, textarea {
 		}
 
 		.image.avatar48 {
-			width: 120px;
-			height: 120px;
+			width: 48px;
+			height: 48px;
 			/* background: #f00; */
 		}
 
 			.image.avatar48 img {
-				width: 120px;
-				height: 120px;
+				width: 48px;
+				height: 48px;
 			}
 
 		.image.fit {
@@ -2055,7 +2053,7 @@ input, select, textarea {
 		left: 0;
 		overflow-y: auto;
 		position: fixed;
-		/* text-align: right; */
+		text-align: right;
 		top: 0;
 		width: 375px;
 	}
@@ -2080,8 +2078,7 @@ input, select, textarea {
 			}
 
 		#header .icons {
-			/* font-size: 0.8em; */
-			font-size: 1em;
+			font-size: 0.8em;
 			text-align: center;
 		}
 
