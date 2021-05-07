@@ -2084,7 +2084,8 @@ input, select, textarea {
 			}
 
 		#header .icons {
-			font-size: 0.8em;
+			/* font-size: 0.8em; */
+			font-size: 1.2em;
 			text-align: center;
 		}
 
