@@ -13,4 +13,5 @@
 ## Resources
 
 [Prologue - HTML5up](https://html5up.net/prologue)
+
 [Crop Image](https://www.iloveimg.com/crop-image)
