@@ -15,3 +15,5 @@
 [Prologue - HTML5up](https://html5up.net/prologue)
 
 [iloveimg - Crop Image](https://www.iloveimg.com/crop-image)
+
+[Devicons](https://devicon.dev)
