@@ -2653,3 +2653,7 @@ input, select, textarea {
 	display: flex;
 	justify-content: space-evenly;
 }
+
+#devicon-item {
+	width: 33.33%;
+}
