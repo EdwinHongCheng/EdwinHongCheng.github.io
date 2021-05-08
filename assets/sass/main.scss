@@ -112,7 +112,8 @@
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+		/* color: #888; */
+		color:black;
 
 		// Stops initial animations until page loads.
 			&.is-preload {
@@ -134,7 +135,8 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #666;
+		/* color: #666; */
+		color: black;
 		line-height: 1.5em;
 	}
 
