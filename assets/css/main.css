@@ -2647,6 +2647,7 @@ input, select, textarea {
 
 	}
 
+/* <------------------------------------------------------------------------> */
 
 /* [WIP] My Custom Code */
 #devicon-row {
@@ -2656,4 +2657,8 @@ input, select, textarea {
 
 #devicon-item {
 	width: 33.33%;
+}
+
+#devicon-icon {
+	font-size: 2em;
 }
