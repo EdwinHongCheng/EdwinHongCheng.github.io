@@ -2680,9 +2680,10 @@ input, select, textarea {
 }
 
 #social-icon-item {
-	width: 17.33%;
-	margin-left: 8.00%;
-	margin-right: 8.00%;
+	width: 33.33%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
 
 #social-icon-github, #social-icon-linkedin, #social-icon-angellist {
