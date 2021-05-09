@@ -2649,7 +2649,10 @@ input, select, textarea {
 
 /* <------------------------------------------------------------------------> */
 
-/* [WIP] My Custom Code */
+/* Custom Code */
+
+
+/* "Skills" Section */
 #devicon-row {
 	display: flex;
 	justify-content: space-evenly;
@@ -2661,4 +2664,50 @@ input, select, textarea {
 
 #devicon-icon {
 	font-size: 3em;
+}
+
+
+/* "Contact" Section */
+#social-icon-row-parent {
+	display: flex;
+	justify-content: center;	
+}
+
+#social-icon-row {
+	display: flex;
+	justify-content: space-evenly;
+	width: 60%;
+}
+
+#social-icon-item {
+	width: 17.33%;
+	margin-left: 8.00%;
+	margin-right: 8.00%;
+}
+
+#social-icon-github, #social-icon-linkedin, #social-icon-angellist {
+	font-size: 2em;
+}
+
+#social-icon-github {
+	color: #181616;
+}
+
+#social-icon-linkedin {
+	color: #0076b2;
+}
+
+#social-icon-angellist {
+	color: black;
+}
+
+#social-icon-item:hover {
+	cursor: pointer;
+	color: #E27689;	
+}
+
+#social-icon-item:hover #social-icon-github,
+#social-icon-item:hover #social-icon-linkedin,
+#social-icon-item:hover #social-icon-angellist {
+	color: #E27689;
 }
