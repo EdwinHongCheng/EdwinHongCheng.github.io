@@ -2709,8 +2709,16 @@ input, select, textarea {
 }
 
 #social-icon-item:hover {
-	cursor: pointer;
 	color: #E27689;	
+}
+
+#social-icon-github, 
+#social-icon-linkedin, 
+#social-icon-angellist {
+	-moz-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+	-webkit-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+	-ms-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+	transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 }
 
 #social-icon-item:hover #social-icon-github,
