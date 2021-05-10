@@ -2666,6 +2666,11 @@ input, select, textarea {
 	font-size: 3em;
 }
 
+/* About */
+#about-text {
+	text-align: left;
+}
+
 
 /* "Contact" Section */
 #social-icon-row-parent {
