@@ -2662,6 +2662,7 @@ input, select, textarea {
 	width: 33.33%;
 }
 
+/* Note: Not using font ver icons anymore - slightly off when used w SVG vers */
 #devicon-icon {
 	font-size: 3em; /* for all icons (both font + SVG vers) */
 	width: 1em; /* just for SVG icon size */
