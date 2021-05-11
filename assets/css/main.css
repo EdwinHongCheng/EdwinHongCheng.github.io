@@ -2663,7 +2663,8 @@ input, select, textarea {
 }
 
 #devicon-icon {
-	font-size: 3em;
+	font-size: 3em; /* for all icons (both font + SVG vers) */
+	width: 1em; /* just for SVG icon size */
 }
 
 /* About */
