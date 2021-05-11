@@ -2669,6 +2669,7 @@ input, select, textarea {
 /* About */
 #about-text {
 	text-align: left;
+	font-size: 14pt;
 }
 
 
