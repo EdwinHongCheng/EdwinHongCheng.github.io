@@ -2686,7 +2686,8 @@ input, select, textarea {
 	justify-content: space-evenly;
 	width: 100%;
 	
-	max-width: 285px;
+	/* max-width: 285px; */
+	max-width: 400px;
 }
 
 #social-icon-item {
