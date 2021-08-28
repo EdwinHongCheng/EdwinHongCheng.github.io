@@ -5,7 +5,7 @@
 
 ## Other Social Links
 
-[LinkedIn](https://www.linkedin.com/in/edwin-cheng-a603819b/)
+[LinkedIn](https://www.linkedin.com/in/edwin-hong-cheng/)
 
 [AngelList](https://angel.co/u/edwin-cheng-5)
 
